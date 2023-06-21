@@ -1,0 +1,7 @@
+name: Svalin
+version: 1.0
+main: com.chiliasmstudio.Svalin.Svalin
+authors: [chiliasmstudio]
+website: https://github.com/chiliasmstudio/Svalin
+
+folia-supported: true
